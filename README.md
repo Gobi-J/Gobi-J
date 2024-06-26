@@ -2,7 +2,7 @@
 
 🚀 Full Stack Web Developer - MERN
 
-[LinkedIn](https://linkedin.com/in/gobi-j) • [Twitter](https://twitter.com/Gobij2003) • [Portfolio](https://gobi-j.github.io/Profile/)
+[LinkedIn](https://linkedin.com/in/gobi-j) • [Mail](mailto:gobij2003@gmail.com) • [Portfolio](https://gobi-j.github.io/Profile/)
 
 ## 🌟 What Defines Me
 
