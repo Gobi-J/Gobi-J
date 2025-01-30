@@ -1,6 +1,6 @@
 # 👋 Hi Guys! I'm Gobi J
 
-🚀 Full Stack Web Developer - MERN
+🚀 Software Engineer - Ideas2IT Technologies
 
 [LinkedIn](https://linkedin.com/in/gobi-j) • [Mail](mailto:gobij2003@gmail.com) • [Portfolio](https://gobi-j.github.io/portfolio/)
 
@@ -24,15 +24,6 @@
 ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)  ![Python](https://img.icons8.com/fluency/48/python.png)
 #### Tools and IDE:
 ![Vite](https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png&color=000000) ![NPM](https://img.icons8.com/?size=48&id=24895&format=png&color=000000) ![Figma](https://img.icons8.com/?size=48&id=W0YEwBDDfTeu&format=png&color=000000)![VS Code](https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png&color=000000) ![Eclipse](https://img.icons8.com/?size=48&id=pcHtLiSbkmzw&format=png&color=000000) ![Git](https://img.icons8.com/?size=48&id=20906&format=png&color=000000) ![GitHub](https://img.icons8.com/?size=48&id=12599&format=png&color=000000) ![Canva](https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png&color=000000) 
-
-
-##  Coding Profiles 🧑‍💻
-
-#### [Leetcode](https://leetcode.com/gobij2003/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/gobij2003?theme=dark&font=Mina)
-#### [GeeksforGeeks](https://auth.geeksforgeeks.org/user/gobijci0x)
-![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=gobijci0x)
-#### [CSS Battle](https://cssbattle.dev/player/gobi_j)
 
 ##  Current Ventures 🚀
 📚 Mastering **MERN Stack**, adding another dimension to my coding universe.<br>
